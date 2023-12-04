@@ -1,32 +1,8 @@
 {
   "common": {
-    "name": "vis-lcars",
-    "version": "1.1.1",
-    "news": {
-      "1.1.1": {
-        "en": "Added two color schemes: gray and light gray",
-        "de": "Hinzugefügt zwei Farbschemas: grau und hellgrau",
-        "ru": "Добавлены две цветовые схемы: серый и светлый серый",
-        "pt": "Adicionado dois esquemas de cores: cinza e luz cinza",
-        "nl": "Twee kleurenplannen: grijs en lichtgrijs",
-        "fr": "Ajout de deux schémas de couleurs: gris et gris clair",
-        "it": "Aggiunto due schemi di colore: grigio e grigio chiaro",
-        "es": "Añadido dos esquemas de color: gris y gris claro",
-        "pl": "Dodał dwa kolory: szary i jasno szary",
-        "uk": "Додано два колірні схеми: сірий і світло-сірий",
-        "zh-cn": "增加两个色彩计划:光明和照明"
-      },
-      "1.0.4": {
-        "en": "fix render of state on slow devices",
-        "de": "Korrigiere Rendering von State auf langsamen Geräten",
-        "ru": "Исправлен рендер state на медленных устройствах"
-      },
-      "1.0.1": {
-        "en": "fix radius settings for firefox",
-        "de": "fix radius settings for firefox",
-        "ru": "fix radius settings for firefox"
-      }
-    },
+    "name": "vis-lcars-grypho",
+    "version": "1.0.0+",
+    "news": {},
     "titleLang": {
       "en": "lcars style Widgets"
     },
@@ -52,7 +28,8 @@
     ],
     "readme": "https://github.com/ioBroker/ioBroker.vis-lcars/blob/master/README.md",
     "authors": [
-      "hobbyquaker <hq@ccu.io>"
+      "hobbyquaker <hq@ccu.io>",
+      "Grypho <grypho@tempus-vivit.net>"
     ],
     "localLink": "%web_protocol%://%ip%:%web_port%/vis/edit.html",
     "license": "MIT",
