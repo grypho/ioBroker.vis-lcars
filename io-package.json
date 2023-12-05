@@ -1,7 +1,7 @@
 {
   "common": {
     "name": "vis-lcars-grypho",
-    "version": "1.0.0",
+    "version": "1.0.1",
     "news": {},
     "titleLang": {
       "en": "lcars style Widgets"
