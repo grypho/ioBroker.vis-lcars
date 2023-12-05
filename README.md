@@ -1,5 +1,5 @@
 ![Logo](admin/lcars.png)
-# ioBroker.vis-lcars
+# ioBroker.vis-lcars-grypho
 
 ![Number of Installations](http://iobroker.live/badges/vis-lcars-installed.svg) ![Number of Installations](http://iobroker.live/badges/vis-lcars-stable.svg)
 
